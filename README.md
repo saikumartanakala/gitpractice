@@ -1,4 +1,4 @@
-How to setup git in ubuntu
+***How to setup git in ubuntu
 apt install git -y
 check the git is installed--->git -v
 create directory--->mkdir gitfiles
@@ -65,4 +65,4 @@ password--->****************
 enter
 git log
 ctrl + z
-
+***
