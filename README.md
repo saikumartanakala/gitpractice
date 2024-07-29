@@ -1,3 +1,29 @@
+###############################################################################################
+
+**LINUX**
+root directory--->/
+homw directory--->~
+[ec2-user@ip=182-23-46-51 ~]$
+user name    ip address
+date-->Mon Jul 29 09:25:56 UTC 2024
+ctrl + d --->logout the linux
+clear--->clear the screen
+history-->to show the recent used commands
+ls--> to list the files
+ls -a---> to list all files
+ls -ll--->to show the full information of all files(ll means letter l)
+ls -11---->to show the all the file names(11 means one one)
+ls -al----> to show hidden files
+cd->> change one location to other location
+cd ..------>go back to one step
+
+ df-h ---->Displays free space on mounted systems
+ df-i --->Displays free inodes on filesystems
+ fdisk-l ---->Shows disk partitions,sizes,and types
+
+
+
+
 ***How to setup git in ubuntu
 apt install git -y
 check the git is installed--->git -v
@@ -66,3 +92,7 @@ enter
 git log
 ctrl + z
 ***
+
+
+
+
